@@ -20,7 +20,7 @@
 
 
     <properties>
-        <revision>1.0.0</revision>
+        <revision>1.1.0</revision>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jdk.version>1.8</jdk.version>
         <gpg.skip>true</gpg.skip>
@@ -77,19 +77,6 @@
         <dependencies>
         </dependencies>
     </dependencyManagement>
-
-
-    <dependencies>
-<!--        <dependency>-->
-<!--            <groupId>org.slf4j</groupId>-->
-<!--            <artifactId>slf4j-api</artifactId>-->
-<!--        </dependency>-->
-<!--        <dependency>-->
-<!--            <groupId>org.projectlombok</groupId>-->
-<!--            <artifactId>lombok</artifactId>-->
-<!--            <scope>provided</scope>-->
-<!--        </dependency>-->
-    </dependencies>
 
 
     <build>
